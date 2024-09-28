@@ -1,0 +1,14 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "Grider's First Electron Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doug Franklin",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^32.1.2"
+  }
+}
