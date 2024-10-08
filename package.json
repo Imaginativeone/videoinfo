@@ -4,11 +4,12 @@
   "description": "Grider's First Electron Tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "electron": "electron ."
   },
   "author": "Doug Franklin",
   "license": "MIT",
   "dependencies": {
-    "electron": "^32.1.2"
+    "electron": "^33.0.0-beta.8",
+    "update-electron-app": "^3.0.0"
   }
 }
